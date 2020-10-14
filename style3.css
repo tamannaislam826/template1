@@ -1,0 +1,127 @@
+.a{
+background-color: aqua;
+
+height: 100px;
+width: 25%;
+float: left;
+
+
+}
+.b{
+   
+ 
+    background-color: blueviolet;
+    height: 100px;
+    width: 25%;
+    float: left;
+  
+    
+}
+.c{
+
+    height:100 px;
+    background-color: black;
+    height: 100px;
+    width: 25%;
+    float: left;
+
+}
+.d{
+  
+    height:100 px;
+    background-color: blue;
+    width: 25%;
+    height: 100px;
+    float: right;
+    
+}
+.head{
+overflow: hidden;  
+}
+.main1{
+    overflow: hidden;
+    height: 600px;
+}
+.left{
+
+height: 600px;
+width: 75%;
+background-color: mediumpurple;
+float: left;
+}
+.right{
+    height: 600px;
+width: 25%;
+background-color:gold;
+float: right;
+}
+.top
+{
+    height: 100px;
+    background-color:firebrick ;
+    
+}
+.bottom{
+    height: 500px;
+    background-color: fuchsia;
+    overflow: hidden;
+}
+.left1{
+    width: 67%;
+    background-color: rgb(128, 128, 128);
+    float: left;
+    height: 500px;
+   
+    
+
+
+}
+.top1{
+    height: 400px;
+    background-color: greenyellow;
+}
+.bottom1{
+    height: 100px;
+    background-color: indianred;
+}
+.left2{
+height: 100px;
+width: 50%;
+background-color: lightblue;
+}
+.right2{
+    height: 100px;
+    width: 50%;
+    background-color: indianred;
+
+}
+.right1{
+    width: 33%;
+    background-color: green;
+    float: right;
+    height: 500px;
+    
+
+}
+.last{
+    overflow: hidden;
+    height: 100px;
+}
+.left3{
+    height: 100px;
+    float: left;
+    width: 25%;
+    background-color: mediumblue;
+
+}
+.right3{
+    height: 100px;
+    float: right;
+    width: 75%;
+    background-color: mediumslateblue;
+}
+
+footer{
+    height: 100px;
+    background-color: mediumspringgreen;
+    }
